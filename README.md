@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
 </p>
 
-# 🦇 Olá, eu sou [Seu Nome]
+# 🦇 Olá, eu sou Melancia
 
 > "Code in darkness. Build in silence."
 
@@ -13,18 +13,16 @@
 
 ## 🌑 Sobre mim
 
-🖤 Estudante de Programação  
-🦇 Focado em C# e .NET  
-🌘 Amante do estilo dark  
-⚡ Transformando café em código  
+🖤 Estudante de DS  
+🦇 Focada em me formaar 
+🌘 Amante de Rock
+⚡ Paz & Amor
 
 ---
 
 ## 🩸 Tecnologias
 
 ![C#](https://img.shields.io/badge/C%23-2b0033?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-1a001f?style=for-the-badge&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-330000?style=for-the-badge&logo=git&logoColor=red)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -39,5 +37,5 @@
 
 ## 🕯️ Frase
 
-> "Enquanto alguns dormem, eu programo."
+> "Enquanto alguns dormem, eu durmo também."
 
