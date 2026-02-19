@@ -1,93 +1,56 @@
+## 🦇 𝕿𝖍𝖊 𝕯𝖆𝖗𝖐 𝕬𝖗𝖈𝖍𝖎𝖛𝖊
 
-
-<img width="720" height="917" alt="image" src="https://github.com/user-attachments/assets/b072f25d-e14e-4f0a-b63a-ba95f377a439" />
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
-</p>
-
-# 🦇 Olá, eu sou Melancia
-
-> "Code in darkness. Build in silence."
+<img src="https://i.pinimg.com/originals/2b/6a/6e/2b6a6e6bcbdd5d4c9f0c6b6b7a7b2c8e.gif" width="100%">
 
 ---
 
-## 🌑 Sobre mim
-
-🖤 Estudante de DS  
-🦇 Focada em me formaar 
-🌘 Amante de Rock
-⚡ Paz & Amor
-
----
-
-## 🩸 Tecnologias
-
-![C#](https://img.shields.io/badge/C%23-2b0033?style=for-the-badge&logo=csharp&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## ☠️ Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dracula)
-
----
-
-## 🕯️ Frase
-
-> "Enquanto alguns dormem, eu durmo também."
->
-> ## 🦇 Welcome to my dark domain
-
-<img src="https://i.pinimg.com/originals/6e/3b/7a/6e3b7a0f4c7a5b1c7c8d8c6b1c0d3c3f.gif" width="100%">
-
-### ⛓️ Sobre mim
+### 🕯️ Sobre mim
 
 ```diff
-+ Estudante nas sombras
-+ Amante de rock, metal e estética gótica
-+ Codando enquanto o mundo dorme
-+ Brasil 🇧🇷
+- Estudante
+- Criatura da madrugada
+- Amante de rock, metal e estética gótica
+- Programando sob a luz da lua
+- Brasil 🇧🇷
 ```
 
-> "We are the children of the night… what music they make." 🦇
+<img src="https://i.pinimg.com/originals/6f/9e/4d/6f9e4d6c7a8a5b4b5c9c6a6a6a6a6a.gif" width="300">
 
 ---
 
-### 🩸 Tecnologias que eu invoco
+### ⚰️ Tecnologias invocadas
 
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-darkred?style=for-the-badge\&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
 ![Git](https://img.shields.io/badge/Git-darkred?style=for-the-badge\&logo=git)
 
+<img src="https://i.pinimg.com/originals/ab/2f/1a/ab2f1a4c7e4c8a9f6c4a7a8b7b9c1e.gif" width="200">
+
 ---
 
-### ⚰️ Estatísticas do caos
+### 🌑 Estatísticas das sombras
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME\&show_icons=true\&theme=dark)
 
 ---
 
-### 🕯️ Atualmente
+### 🩸 Atualmente
 
-* 🔥 Criando projetos nas madrugadas
-* 🦇 Transformando café em código
-* ⛓️ Evoluindo um commit por vez
+* 🦇 Sobrevivendo à base de café e caos
+* ⛓️ Criando projetos noturnos
+* 🕸️ Aprendendo novos feitiços (linguagens)
 
----
-
-### 🌑 Contato
-
-Se ousar atravessar as brumas:
-
-* Discord: ???
-* Instagram: ???
+<img src="https://i.pinimg.com/originals/0c/3e/0d/0c3e0d5a7d6e4f7a5a6c7c8c9d0e1f2.gif" width="250">
 
 ---
 
-🩸 *“Code like a nightmare you never wake from.”*
+### 🕸️ Contato
 
+Se ousar atravessar as trevas:
 
+não uso redes sociais
+
+---
+
+🕯️ *"In the darkness, code becomes eternal."*
