@@ -1,12 +1,6 @@
 ## 🦇 𝕿𝖍𝖊 𝕯𝖆𝖗𝖐 𝕬𝖗𝖈𝖍𝖎𝖛𝖊
-⛓️ 𝕿𝖍𝖗𝖔𝖓𝖊 𝖔𝖋 𝕮𝖔𝖉𝖊 ⛓️
-███████╗██╗  ██╗████████╗██████╗ ███████╗███╗   ███╗███████╗
-██╔════╝╚██╗██╔╝╚══██╔══╝██╔══██╗██╔════╝████╗ ████║██╔════╝
-█████╗   ╚███╔╝    ██║   ██████╔╝█████╗  ██╔████╔██║█████╗
-██╔══╝   ██╔██╗    ██║   ██╔══██╗██╔══╝  ██║╚██╔╝██║██╔══╝
-███████╗██╔╝ ██╗   ██║   ██║  ██║███████╗██║ ╚═╝ ██║███████╗
-╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚══════╝
-<img src="https://i.pinimg.com/originals/2b/6a/6e/2b6a6e6bcbdd5d4c9f0c6b6b7a7b2c8e.gif" width="100%">
+
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/7cb41af7-62b8-466f-9ae4-7358d119e52a" />
 
 ---
 
@@ -34,11 +28,6 @@
 <img src="https://i.pinimg.com/originals/ab/2f/1a/ab2f1a4c7e4c8a9f6c4a7a8b7b9c1e.gif" width="200">
 
 ---
-
-### 🌑 Estatísticas das sombras
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME\&show_icons=true\&theme=dark)
-
 ---
 
 ### 🩸 Atualmente
@@ -52,9 +41,6 @@
 ---
 
 ### 🕸️ Contato
-
-Se ousar atravessar as trevas:
-
 não uso redes sociais
 
 ---
