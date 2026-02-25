@@ -2,6 +2,7 @@
 
 <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/7cb41af7-62b8-466f-9ae4-7358d119e52a" />
 
+
 ---
 
 ### 🕯️ Sobre mim
@@ -46,3 +47,6 @@ não uso redes sociais
 ---
 
 🕯️ *"In the darkness, code becomes eternal."*
+
+<img width="596" height="607" alt="image" src="https://github.com/user-attachments/assets/4cf19af7-baf3-468d-bc73-a874ec5577d3" />
+
