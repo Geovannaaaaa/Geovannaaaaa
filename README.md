@@ -1,8 +1,5 @@
-## 🦇 𝕿𝖍𝖊 𝕯𝖆𝖗𝖐 𝕬𝖗𝖈𝖍𝖎𝖛𝖊
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="300"/>
-</p>
+🦇 𝕿𝖍𝖊 𝕯𝖆𝖗𝖐 𝕬𝖗𝖈𝖍𝖎𝖛𝖊
+  
 
 <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/7cb41af7-62b8-466f-9ae4-7358d119e52a" />
 
